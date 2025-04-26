@@ -13,12 +13,10 @@ AluraStore/
 ├── tienda_2.csv
 ├── tienda_3.csv
 ├── tienda_4.csv
-├── AluraStoreLatam.ipynb
 ├── Informe de Análisis de AluraStore.docx
 ├── requirements.txt
+├── AluraStoreLatam.ipynb
 └── README.md
-
-
 
 ⸻
 
